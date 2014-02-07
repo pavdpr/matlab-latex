@@ -1,0 +1,10 @@
+matlab-latex
+========================================================================
+
+A set of scripts for writing LaTeX code from Matlab
+
+------------------------------------------------------------------------
+
+RRE.m: Shows steps for writing the reduced row echelon form of a matrix
+
+========================================================================
