@@ -1,0 +1,5 @@
+# LaTeX files
+*.tex
+
+# Mac Things
+.DS_Store
